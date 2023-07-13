@@ -1,0 +1,17 @@
+11;1; true; false;A;
+12;1; false; false;A;
+13;1; true; false;A;
+21;2; false; false;A;
+22;2; false; false;A;
+23;2; true; true;A;
+31;3; true; false;A;
+32;3; true; false;A;
+33;3; false; false;A;
+41;4; false; false;A;
+42;4; false; false;A;
+43;4; false; false;A;
+44;4; true; true;A;
+51;5; true; false;A;
+52;5; false; false;A;
+53;5; false; false;A;
+54;5; true; true;A;
